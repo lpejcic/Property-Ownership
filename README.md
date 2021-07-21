@@ -8,7 +8,7 @@
 ## To get started locally:
 
 1. Clone this repo
-1. Change into the project directory `cd Blockchain-Capstone/`
+1. Change into the project directory `cd Property-Ownership/`
 1. Install dependenceis `npm i`
 1. Start your local blockchain `ganache-cli`
 1. Compile the contracts `truffle compile`
